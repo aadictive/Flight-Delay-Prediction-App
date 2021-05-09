@@ -4,6 +4,13 @@ This repo contains all the files and codes for Flight Delay Prediction Project. 
 ## Project Files and Data:
 Check out the repo [Flight Delay Prediction Project](https://github.com/aadictive/Flight-Delay-Prediction-Project)
 
+
+## References, Data & Implementation credits:-
+
+* [Bureau of Transportation Statistics](https://www.bts.gov/)
+* [National Centers for Environmental Information](https://www.ncdc.noaa.gov/)
+* [xcitech.github.io](https://xcitech.github.io/projects/airline-delay1/)
+
 ## Terms and Policies
 
 - This repository contains resources that are referenced from multiple online platforms. Users should use the resources for open source projects and self/ non-commercial purposes.
